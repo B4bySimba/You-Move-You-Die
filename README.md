@@ -9,4 +9,5 @@ load the file in your browser if you are using localhost else, activate the inde
 You move with W, A, S, D
 
 to play, click here
-<a href="https://www.example.com" target="_blank">PLAY</a>
+[Link Text](https://finite.rf.gd/you-move-you-die/)
+
